@@ -119,10 +119,3 @@ This project demonstrates a complete PySpark-based analytics workflow, starting 
 By deliberately separating data ingestion, standardization, and business aggregation layers, the project mirrors real-world data engineering practices and emphasizes **data quality, scalability, and clarity of design**. The Silver layer ensures analytical correctness by handling schema inconsistencies, malformed data, and type conversions, while the Gold layer transforms cleaned data into meaningful business metrics.
 
 The final **Customer Lifetime Value (CLV)** Gold dataset converts transaction-level data into actionable customer insights, enabling use cases such as customer prioritization, retention analysis, and revenue contribution assessment. This reflects a clear understanding of data grain, aggregation logic, and business alignment.
-
-
-
-
-
-
-Readiness for downstream BI tools and dashboards
